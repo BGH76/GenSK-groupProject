@@ -14,7 +14,7 @@ public class Main extends Application {
         primaryStage.setTitle("GenSK-groupProject"); // todo: change name
         primaryStage.setScene(new Scene(root, 800, 600));
         primaryStage.show();
-        // Testing 
+
     }
 
 
